@@ -107,7 +107,3 @@ Because this is a Vite static app, deployment is straightforward:
 2. Upload the dist folder to your hosting platform
 
 Works well on platforms like Netlify, Vercel, GitHub Pages, and static object storage.
-
-## License
-
-This project is currently unlicensed. Add a LICENSE file if you plan to publish or distribute it.
