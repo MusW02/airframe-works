@@ -1,0 +1,67 @@
+# ------------------------------
+# Dependencies
+# ------------------------------
+node_modules/
+
+# ------------------------------
+# Build and coverage output
+# ------------------------------
+dist/
+dist-ssr/
+coverage/
+*.tsbuildinfo
+vite.svg
+
+# ------------------------------
+# Environment and local overrides
+# ------------------------------
+.env
+.env.*
+!.env.example
+*.local
+
+# ------------------------------
+# Logs and diagnostics
+# ------------------------------
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ------------------------------
+# Package manager stores
+# ------------------------------
+.npm/
+.pnpm-store/
+
+# ------------------------------
+# Caches and temp files
+# ------------------------------
+.cache/
+.eslintcache
+.stylelintcache
+*.tmp
+*.temp
+
+# ------------------------------
+# Editor and IDE files
+# ------------------------------
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ------------------------------
+# OS files
+# ------------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini

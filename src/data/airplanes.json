@@ -1,0 +1,290 @@
+[
+  {
+    "id": "boeing-787-9",
+    "name": "Boeing 787-9 Dreamliner",
+    "manufacturer": "Boeing",
+    "model": "787-9",
+    "type": "Wide-body",
+    "firstFlight": "2013-09-17",
+    "introduction": "2014",
+    "status": "In Production",
+    "specifications": {
+      "capacity": {
+        "passengers": 290,
+        "crew": 2
+      },
+      "dimensions": {
+        "length": 62.8,
+        "wingspan": 60.1,
+        "height": 17
+      },
+      "performance": {
+        "range": 14140,
+        "cruiseSpeed": 903,
+        "maxSpeed": 954
+      },
+      "weights": {
+        "empty": 128000,
+        "maxTakeoff": 254000
+      }
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1540339832862-474599807836?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1529074963764-98f45c47344b?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=700&q=75",
+      "https://images.unsplash.com/photo-1540339832862-474599807836?auto=format&fit=crop&w=700&q=75"
+    ],
+    "variants": ["787-8", "787-9", "787-10"],
+    "operators": ["ANA", "United Airlines", "Qatar Airways", "British Airways", "Air New Zealand"],
+    "description": "The Boeing 787-9 Dreamliner is a long-range wide-body aircraft that combines composite airframe construction, efficient engines, and a passenger-focused cabin.",
+    "features": [
+      "Composite fuselage and wing structure",
+      "High-bypass turbofan engine efficiency",
+      "Large dimmable windows",
+      "Lower cabin altitude and higher humidity"
+    ]
+  },
+  {
+    "id": "airbus-a320neo",
+    "name": "Airbus A320neo",
+    "manufacturer": "Airbus",
+    "model": "A320neo",
+    "type": "Narrow-body",
+    "firstFlight": "2014-09-25",
+    "introduction": "2016",
+    "status": "In Production",
+    "specifications": {
+      "capacity": {
+        "passengers": 180,
+        "crew": 2
+      },
+      "dimensions": {
+        "length": 37.6,
+        "wingspan": 35.8,
+        "height": 11.8
+      },
+      "performance": {
+        "range": 6500,
+        "cruiseSpeed": 828,
+        "maxSpeed": 871
+      },
+      "weights": {
+        "empty": 42900,
+        "maxTakeoff": 79000
+      }
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&w=700&q=75",
+      "https://images.unsplash.com/photo-1556388158-158ea5ccacbd?auto=format&fit=crop&w=700&q=75"
+    ],
+    "variants": ["A319neo", "A320neo", "A321neo"],
+    "operators": ["IndiGo", "easyJet", "Lufthansa", "Wizz Air", "Spirit Airlines"],
+    "description": "The Airbus A320neo is the re-engined variant of the A320 family, designed to improve fuel burn, operating economics, and environmental performance.",
+    "features": [
+      "LEAP-1A or PW1100G engine options",
+      "Sharklet wingtip devices",
+      "Reduced fuel burn and emissions",
+      "Cabin flexibility for high-density routes"
+    ]
+  },
+  {
+    "id": "embraer-e195-e2",
+    "name": "Embraer E195-E2",
+    "manufacturer": "Embraer",
+    "model": "E195-E2",
+    "type": "Regional",
+    "firstFlight": "2017-03-29",
+    "introduction": "2019",
+    "status": "In Production",
+    "specifications": {
+      "capacity": {
+        "passengers": 146,
+        "crew": 2
+      },
+      "dimensions": {
+        "length": 41.5,
+        "wingspan": 35.1,
+        "height": 10.9
+      },
+      "performance": {
+        "range": 4815,
+        "cruiseSpeed": 870,
+        "maxSpeed": 890
+      },
+      "weights": {
+        "empty": 34400,
+        "maxTakeoff": 61800
+      }
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1474302770737-173ee21bab63?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1434277622644-fc6d2f73f4f5?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1529074963764-98f45c47344b?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1474302770737-173ee21bab63?auto=format&fit=crop&w=700&q=75",
+      "https://images.unsplash.com/photo-1434277622644-fc6d2f73f4f5?auto=format&fit=crop&w=700&q=75"
+    ],
+    "variants": ["E190-E2", "E195-E2"],
+    "operators": ["KLM Cityhopper", "Porter Airlines", "Azul", "Binter Canarias"],
+    "description": "The Embraer E195-E2 is the largest member of the E2 family and focuses on high efficiency for regional and short-haul markets.",
+    "features": [
+      "Geared turbofan propulsion",
+      "High aspect-ratio wing",
+      "2+2 cabin layout with no middle seats",
+      "Updated avionics and flight controls"
+    ]
+  },
+  {
+    "id": "boeing-777x",
+    "name": "Boeing 777-9",
+    "manufacturer": "Boeing",
+    "model": "777-9",
+    "type": "Wide-body",
+    "firstFlight": "2020-01-25",
+    "introduction": "2025",
+    "status": "Development",
+    "specifications": {
+      "capacity": {
+        "passengers": 426,
+        "crew": 2
+      },
+      "dimensions": {
+        "length": 76.7,
+        "wingspan": 71.8,
+        "height": 19.7
+      },
+      "performance": {
+        "range": 13500,
+        "cruiseSpeed": 905,
+        "maxSpeed": 945
+      },
+      "weights": {
+        "empty": 188000,
+        "maxTakeoff": 351500
+      }
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1494418684874-3e5ef83c6ed9?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1499678329028-101435549a4e?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&w=700&q=75",
+      "https://images.unsplash.com/photo-1494418684874-3e5ef83c6ed9?auto=format&fit=crop&w=700&q=75"
+    ],
+    "variants": ["777-8", "777-9"],
+    "operators": ["Emirates", "Qatar Airways", "Lufthansa", "ANA"],
+    "description": "The Boeing 777-9 is the largest variant of the 777X family, featuring composite wings, folding wingtips, and next-generation GE9X engines.",
+    "features": [
+      "Composite wing with folding tips",
+      "GE9X high-thrust engines",
+      "High-capacity long-haul cabin",
+      "777X flight deck updates"
+    ]
+  },
+  {
+    "id": "airbus-a220-300",
+    "name": "Airbus A220-300",
+    "manufacturer": "Airbus",
+    "model": "A220-300",
+    "type": "Narrow-body",
+    "firstFlight": "2015-02-27",
+    "introduction": "2016",
+    "status": "In Production",
+    "specifications": {
+      "capacity": {
+        "passengers": 160,
+        "crew": 2
+      },
+      "dimensions": {
+        "length": 38.7,
+        "wingspan": 35.1,
+        "height": 11.5
+      },
+      "performance": {
+        "range": 6297,
+        "cruiseSpeed": 871,
+        "maxSpeed": 889
+      },
+      "weights": {
+        "empty": 37600,
+        "maxTakeoff": 70000
+      }
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1508444845599-5c89863b1c44?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1530727838133-87ef6e6f2a3f?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?auto=format&fit=crop&w=700&q=75",
+      "https://images.unsplash.com/photo-1508444845599-5c89863b1c44?auto=format&fit=crop&w=700&q=75"
+    ],
+    "variants": ["A220-100", "A220-300"],
+    "operators": ["Delta Air Lines", "airBaltic", "Air Canada", "Swiss International"],
+    "description": "The Airbus A220-300 is a modern single-aisle aircraft optimized for efficiency and passenger comfort in the 120 to 160 seat category.",
+    "features": [
+      "Advanced composite wing",
+      "PW1500G geared turbofan engines",
+      "Wide seats and large windows",
+      "Low fuel burn for medium-range sectors"
+    ]
+  },
+  {
+    "id": "airbus-a350-900",
+    "name": "Airbus A350-900",
+    "manufacturer": "Airbus",
+    "model": "A350-900",
+    "type": "Wide-body",
+    "firstFlight": "2013-06-14",
+    "introduction": "2015",
+    "status": "In Production",
+    "specifications": {
+      "capacity": {
+        "passengers": 325,
+        "crew": 2
+      },
+      "dimensions": {
+        "length": 66.8,
+        "wingspan": 64.8,
+        "height": 17.1
+      },
+      "performance": {
+        "range": 15000,
+        "cruiseSpeed": 903,
+        "maxSpeed": 950
+      },
+      "weights": {
+        "empty": 142000,
+        "maxTakeoff": 280000
+      }
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1504198453319-5ce911bafcde?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=1400&q=80",
+      "https://images.unsplash.com/photo-1494412519320-aa613dfb7738?auto=format&fit=crop&w=1400&q=80"
+    ],
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1504198453319-5ce911bafcde?auto=format&fit=crop&w=700&q=75",
+      "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=700&q=75"
+    ],
+    "variants": ["A350-900", "A350-1000"],
+    "operators": ["Singapore Airlines", "Qatar Airways", "Cathay Pacific", "Lufthansa"],
+    "description": "The Airbus A350-900 is a long-range wide-body aircraft designed for high efficiency and comfort on intercontinental routes.",
+    "features": [
+      "Carbon-fiber reinforced airframe",
+      "Rolls-Royce Trent XWB engines",
+      "Quiet wide-body cabin",
+      "Advanced avionics and flight systems"
+    ]
+  }
+]
